@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+# Docker 环境配置
+sandbox:
+  mode: docker  # Docker 环境使用容器沙箱

@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+# 沙箱运行模式配置
+sandbox:
+  mode: native  # native(本地) 或 docker(容器)
