@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
  * @author Shier
  */
 @Configuration
-@EnableConfigurationProperties(SandboxProperties.class)
+@EnableConfigurationProperties(SandboxConfig.SandboxProperties.class)
 public class SandboxConfig {
 
   /**
